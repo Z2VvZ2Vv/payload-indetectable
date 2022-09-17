@@ -1,3 +1,3 @@
-# payload-indetectable
-batch file 
-setup.exe
+# Payload reverse shell
+
+compile c and launch py file on the server
